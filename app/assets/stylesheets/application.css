@@ -13,6 +13,12 @@
  *= require_tree .
  *= require_self
  */
+@import url('https://fonts.googleapis.com/css?family=Arimo&display=swap');
+
+body {
+  font-family: 'Arimo', sans-serif;
+}
+
 .articles {
   list-style: none;
   margin-bottom: 10px auto;
